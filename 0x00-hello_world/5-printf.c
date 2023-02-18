@@ -1,7 +1,3 @@
-Sure, here's the same program with the Betty style:
-
-c
-Copy code
 #include <stdio.h>
 
 /**
