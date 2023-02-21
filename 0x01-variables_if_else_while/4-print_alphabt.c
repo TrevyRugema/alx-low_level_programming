@@ -2,7 +2,9 @@
 
 int main(void)
 {
+	/* initial the variable */
     char letter = 'a';
+    /* loop over the character */
 
     while (letter <= 'z')
     {
@@ -13,7 +15,7 @@ int main(void)
 
         letter++;
     }
-
+	/* print the character */
     putchar('\n');
 
     return (0);
